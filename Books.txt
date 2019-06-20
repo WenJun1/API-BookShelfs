@@ -1,0 +1,11 @@
+{"id":4,"author":"George R.R Martin","title":"Juego de Tronos (Canción de hielo y fuego / 1)","price":10,"stock":8}
+{"id":4,"author":"George R.R Martin","title":"Juego de Tronos (Canción de hielo y fuego / 1)","price":10,"stock":8}
+{"id":4,"author":"George R.R Martin","title":"Juego de Tronos (Canción de hielo y fuego / 1)","price":10,"stock":8}
+{"id":4,"author":"George R.R Martin","title":"Juego de Tronos (Canción de hielo y fuego / 1)","price":10,"stock":8}
+{"id":5,"author":"George R Martin","title":"Tronos (Canción de hielo y fuego / 1)","price":50,"stock":28}
+{"id":5,"author":"George Red Martin","title":"Tronos de Oro (Canción de hielo y fuego / 2)","price":21,"stock":14}
+{"id":6,"author":"George Robert Red Martin","title":"Los del Águila","price":11,"stock":3}
+{"id":6,"author":"George Robert Red Martin","title":"Los del Águila","publisher":1879,"price":11,"stock":3}
+{"id":6,"author":"George Robert Red Martin","title":"Los del Águila","publisher":1879,"ISBN":9788496208001,"price":11,"stock":3}
+{"id":6,"author":"George Robert Red Martin","title":"Los del Águila","publisher":"Anaya","year":1879,"ISBN":9788496208001,"price":11,"stock":3}
+{"id":6,"author":"George Robert Red Martin","title":"Los del Águila","publisher":"Anaya","year":1879,"ISBN":9788496208001,"price":11,"stock":3}
